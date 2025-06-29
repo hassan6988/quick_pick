@@ -1,0 +1,2 @@
+D:/development/Tasks/User app and web/android/app/.cxx/RelWithDebInfo/w6r1l6m3/x86_64/CMakeFiles/edit_cache.dir
+D:/development/Tasks/User app and web/android/app/.cxx/RelWithDebInfo/w6r1l6m3/x86_64/CMakeFiles/rebuild_cache.dir
